@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZmCEdIsrl5fyDKLAeKGnHrzJJGUxaiDWnuJZ3AlUfIgyBTFqZcuLuJ5a0N55ljALTe5poDz8O7cxTYx55uAAeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\narut\\source\\repos\\BaixadorYuupo\\BaixadorYuupo\\BaixadorYuupo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\narut\\.nuget\\packages\\htmlagilitypack\\1.11.36\\htmlagilitypack.1.11.36.nupkg.sha512",
+    "C:\\Users\\narut\\.nuget\\packages\\htmlagilitypackcore\\1.0.0\\htmlagilitypackcore.1.0.0.nupkg.sha512",
+    "C:\\Users\\narut\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\narut\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\narut\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\narut\\.nuget\\packages\\tablespans.htmlagilitypack\\1.0.1\\tablespans.htmlagilitypack.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
